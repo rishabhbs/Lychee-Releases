@@ -8,13 +8,13 @@
         <language>en</language>
         <item>
             <title>Lychee 1.0.3</title>
-            <sparkle:version>3</sparkle:version>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <pubDate>Tue, 05 May 2026 12:12:02 +0000</pubDate>
+            <pubDate>Tue, 05 May 2026 12:17:26 +0000</pubDate>
             <enclosure
                 url="https://github.com/rishabhbs/Lychee-Releases/releases/download/v1.0.3/Lychee-1.0.3.zip"
-                sparkle:edSignature="UznNpMsYm+fg2ZMOpnADoQ8JIhzMaYH8Fn5apyBR5a3cw5v8NOLYApYR8CQefOE7zC4omXycgmtg2FCpnc1ADQ=="
-                length="1789415"
+                sparkle:edSignature="yYxBVjUnEypLuYpZ4EEeLbaZEojeWxqDg38NJXtzTdXCs1lqw0jbN5GwWEo/N1SdJHWPpUOQxql1anREE0DoCw=="
+                length="1789410"
                 type="application/octet-stream"
             />
         </item>
