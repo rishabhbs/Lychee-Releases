@@ -7,14 +7,14 @@
         <link>https://raw.githubusercontent.com/rishabhbs/Lychee-Releases/main/appcast.xml</link>
         <language>en</language>
         <item>
-            <title>Lychee 1.0.5</title>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
-            <pubDate>Tue, 05 May 2026 12:30:50 +0000</pubDate>
+            <title>Lychee 1.0.6</title>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <pubDate>Tue, 05 May 2026 12:36:31 +0000</pubDate>
             <enclosure
-                url="https://github.com/rishabhbs/Lychee-Releases/releases/download/v1.0.5/Lychee-1.0.5.zip"
-                sparkle:edSignature="jxS79hIB/wIkAQ/kDoZZ8sriUvaHd/FTlcJA3pR4ZbbxC5HJVyYRCn0mhZlSuwGgmAwgPt5/dvECLt0xoXmQAg=="
-                length="1790455"
+                url="https://github.com/rishabhbs/Lychee-Releases/releases/download/v1.0.6/Lychee-1.0.6.zip"
+                sparkle:edSignature="s2bbbFCshAqMyrR1lctC1tp824MZfbIoqlObpzcsUP8Rx061W3mJA3p71bCOqhqx8wIN/tfybjsvge3ELiiQDg=="
+                length="1790450"
                 type="application/octet-stream"
             />
         </item>
