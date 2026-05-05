@@ -4,8 +4,19 @@
      xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>Lychee</title>
-        <link>https://rishabhbs.github.io/Lychee/appcast.xml</link>
+        <link>https://raw.githubusercontent.com/rishabhbs/Lychee-Releases/main/appcast.xml</link>
         <language>en</language>
-        <!-- Releases are added here by release.sh -->
+        <item>
+            <title>Lychee 1.0.0</title>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <pubDate>Tue, 05 May 2026 10:50:35 +0000</pubDate>
+            <enclosure
+                url="https://github.com/rishabhbs/Lychee/releases/download/v1.0.0/Lychee-1.0.0.zip"
+                sparkle:edSignature="U9CTq174SqXH9orklKnCisa8PnGi9sDATWCvT1+NtisYe0ksVQpzhLp6kslDX9J/5hicKpQ3KHhJlwLmC+zwBQ=="
+                length="1782588"
+                type="application/octet-stream"
+            />
+        </item>
     </channel>
 </rss>
